@@ -66,6 +66,19 @@ python -m http.server 8000
 http://localhost:8000
 ```
 
+#### Output
+
+## 📊 Application Screenshots
+
+
+![Prediction1](Screenshot%202026-03-05%20203403.png)
+
+
+![Prediction2](Screenshot%202026-03-05%20203431.png)
+
+
+![Prediction3](Screenshot%202026-03-05%20203451.png)
+
 ---
 
 ### 🛑 To Stop the Server
